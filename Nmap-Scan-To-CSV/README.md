@@ -3,6 +3,13 @@ Converts Nmap XML output to csv file, and other useful functions. Ignores hosts 
 
 ## Usage
 
+## Look here friends, THE OTHER STUFF IS FLUFF
+`python3 nmap_xml_parser.py -f nmap_scan.xml -fl` yields scan.csv, copy paste that under the template in draw.io.
+
+### Caveats:
+- You must delete scan.csv before your next run or move it from the working directory or script will crash.
+- It's still a bit buggy ngl, not a nice flat interface.
+
 ### Convert Nmap output to csv file
 `python3 nmap_xml_parser.py -f nmap_scan.xml -csv nmap_scan.csv`
 
