@@ -1,0 +1,14 @@
+##Hello World
+# label: %IP%<br><i style="color:gray;">%HOST%</i><br><i style="color:green;">%OS%</i><br>
+# style: label=%label%;points=[];aspect=fixed;html=1;align=center;shadow=0;dashed=0;image;image=img/lib/allied_telesis/computer_and_terminals/Personal_Computer_with_Server.svg;
+# namespace: csvimport-
+# width: auto
+# height: auto
+# padding: 15
+# ignore: id
+# nodespacing: 40
+# levelspacing: 100
+# edgespacing: 40
+# layout: auto
+## CSV starts under this line
+
